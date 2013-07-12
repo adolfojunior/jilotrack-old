@@ -1,0 +1,5 @@
+br\com\cubekode\jilotrack\agent\TrackJSON.class
+br\com\cubekode\jilotrack\agent\CommandListTracking.class
+br\com\cubekode\jilotrack\agent\Command.class
+br\com\cubekode\jilotrack\agent\AgentServlet.class
+br\com\cubekode\jilotrack\agent\CommandListTrack.class

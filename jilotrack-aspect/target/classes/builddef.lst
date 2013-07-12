@@ -1,0 +1,9 @@
+-source
+1.6
+-target
+1.6
+-classpath
+C:\work\java\workspace\jilotrack\jilotrack-tracker\target\jilotrack-tracker-0.0.1-SNAPSHOT.jar;C:\powerlogic\jaguar614\repositorio\org\aspectj\aspectjrt\1.6.11\aspectjrt-1.6.11.jar;C:\work\java\workspace\jilotrack\jilotrack-aspect\target\classes
+-d
+C:\work\java\workspace\jilotrack\jilotrack-aspect\target\classes
+C:\work\java\workspace\jilotrack\jilotrack-aspect\src\main\java\br\com\cubekode\jilotrack\aspect\TrackAspect.java

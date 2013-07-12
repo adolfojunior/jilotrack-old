@@ -1,0 +1,8 @@
+<aspectj>
+	<weaver options="-showWeaveInfo">
+		<exclude within="br.com.cubekode.apptrack..*" />
+	</weaver>
+	<aspects>
+		<aspect name="br.com.cubekode.apptrack.aspect.TrackAspect" />
+	</aspects>
+</aspectj>
